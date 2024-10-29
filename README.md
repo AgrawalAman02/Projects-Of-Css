@@ -1,1 +1,1 @@
-This repo contains projects that I made to learn CSS
+This repo contains projects that I made during learning CSS
